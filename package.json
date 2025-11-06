@@ -1,0 +1,29 @@
+{
+  "name": "web-design-course-restaurant",
+  "version": "1.0.0",
+  "description": "This is a Restaurant Theme Website Template, designed using html and css. It was developed while teaching \"Responsive Web Design Course\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaythapa333/web-design-course-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaythapa333/web-design-course-restaurant/issues"
+  },
+  "homepage": "https://github.com/vijaythapa333/web-design-course-restaurant#readme",
+  "devDependencies": {
+    "vite": "^7.2.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
