@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore environment files
-.env
 
 # Ignore macOS system files
 .DS_Store
+config.bat
